@@ -1,5 +1,7 @@
 # 🗳️ Tideman Voting System (Ranked Pairs)
 
+![Tideman Voting System Cover](A_flat-style_digital_illustration_visually_represe.png)
+
 This project is an implementation of the **Tideman voting system** (also known as Ranked Pairs), written in **C** as part of Harvard’s CS50x 2023 problem sets.  
 
 The Tideman algorithm improves upon simple plurality voting by ensuring that the **Condorcet winner** (a candidate who would win every head-to-head matchup) is selected when one exists.  
