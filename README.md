@@ -1,6 +1,6 @@
 # 🗳️ Tideman Voting System (Ranked Pairs)
 
-![Tideman Voting System Cover](src/A_flat-style_digital_illustration_visually_represe.png)
+![Tideman Voting System Cover](https://github.com/Omar-Alaa-Eldin/tideman/blob/main/src/ChatGPT%20Image%20Aug%2019%2C%202025%2C%2011_38_34%20AM.png)
 
 This project is an implementation of the **Tideman voting system** (also known as Ranked Pairs), written in **C** as part of Harvard’s CS50x 2023 problem sets.  
 
